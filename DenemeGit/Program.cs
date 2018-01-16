@@ -9,7 +9,7 @@ namespace DenemeGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Merhaba Git  ");
+            Console.WriteLine("Merhaba Git dadasd");
             Console.ReadLine();
         }
     }
